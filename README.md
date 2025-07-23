@@ -28,7 +28,7 @@ The `EnemyStats.cs` ScriptableObject allows for creating an unlimited number of 
 ## Installation
 1. Clone the repository: 
    ```
-   git clone https://github.com/EmreBoztas/enemy-spawner-with-object-pooling 
+   git clone https://github.com/EmreBoztas/ObjectPooling
    ```
 2. Open the project in Unity `6000.0.51.f1` or a newer version for optimal compatibility.
 
