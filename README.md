@@ -19,10 +19,6 @@ This project is a Unity demonstration showcasing a robust, high-performance obje
 
  - Benchmark Scene: Includes a dedicated scene to visually compare the significant performance difference between object pooling and the standard `Instantiate`/`Destroy` methods.
 
-## Core Architectural Concepts
-
-This project was built with several key architectural principles in mind to ensure it is robust, performant, and scalable.
-
 
 ## Data-Driven Design with ScriptableObjects
 
